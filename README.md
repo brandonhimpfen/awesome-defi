@@ -89,6 +89,8 @@
 - **[Dune Analytics](https://dune.com/)** - A platform for querying and visualizing DeFi data.
 - **[DeBank](https://debank.com/)** - An analytics tool providing insights into DeFi portfolios and protocols.
 - **[Token Terminal](https://tokenterminal.com/)** - Provides fundamental analysis of DeFi projects and protocols.
+- **[Chartscout](https://chartscout.io)** - Real-time crypto chart pattern detection and automated trading alerts across multiple exchanges.
+
 
 ## Security and Auditing
 
