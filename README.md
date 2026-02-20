@@ -94,6 +94,7 @@
 
 - **[CertiK](https://www.certik.com/)** - A leading blockchain security company offering audits for DeFi projects.
 - **[OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts/)** - A library of secure smart contracts used in DeFi.
+- **[PolicyLayer](https://policylayer.com/)** - Non-custodial spending controls SDK for AI agents interacting with DeFi. Enforces spending limits, recipient whitelists, and kill switches on any EVM wallet.
 - **[Immunefi](https://immunefi.com/)** - A bug bounty platform for DeFi and crypto projects, incentivizing security researchers.
 - **[Quantstamp](https://quantstamp.com/)** - A smart contract auditing service for DeFi projects.
 
