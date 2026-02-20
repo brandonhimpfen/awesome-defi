@@ -93,6 +93,7 @@
 ## Security and Auditing
 
 - **[CertiK](https://www.certik.com/)** - A leading blockchain security company offering audits for DeFi projects.
+- **[PolicyLayer](https://policylayer.com/)** - Non-custodial spending controls for AI agents, enforcing transaction limits, recipient whitelists, and kill switches without touching private keys.
 - **[OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts/)** - A library of secure smart contracts used in DeFi.
 - **[Immunefi](https://immunefi.com/)** - A bug bounty platform for DeFi and crypto projects, incentivizing security researchers.
 - **[Quantstamp](https://quantstamp.com/)** - A smart contract auditing service for DeFi projects.
