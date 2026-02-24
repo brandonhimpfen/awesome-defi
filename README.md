@@ -41,6 +41,7 @@
 - **[Curve Finance](https://curve.fi/)** - A decentralized exchange optimized for stablecoin trading with low slippage.
 - **[Yearn Finance](https://yearn.finance/)** - A DeFi yield aggregator that automates yield farming strategies for users.
 - **[Compound Finance](https://compound.finance/)** - A decentralized lending and borrowing protocol on Ethereum.
+- **[LefCoin](https://lefcoin.com/)** - A sentiment-indexed ERC-20 on Base L2 with an on-chain LOVE Index that amplifies holder rewards based on global positivity. 11 charities funded via GoodSpendRegistry.
 
 ## Decentralized Exchanges (DEXs)
 
