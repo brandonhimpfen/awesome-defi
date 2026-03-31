@@ -89,6 +89,8 @@
 - **[Dune Analytics](https://dune.com/)** - A platform for querying and visualizing DeFi data.
 - **[DeBank](https://debank.com/)** - An analytics tool providing insights into DeFi portfolios and protocols.
 - **[Token Terminal](https://tokenterminal.com/)** - Provides fundamental analysis of DeFi projects and protocols.
+- **[DexPaprika](https://api.dexpaprika.com)** - Free DEX data API across 34 blockchains. 30M+ pools, 27M+ tokens, OHLCV, trades, real-time SSE streaming. No API key needed.
+- **[CoinPaprika](https://api.coinpaprika.com)** - Free crypto market data API for 12,000+ coins and 350+ exchanges. Tickers, OHLCV, historical prices. No API key for free tier.
 
 ## Security and Auditing
 
