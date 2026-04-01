@@ -89,6 +89,7 @@
 - **[Dune Analytics](https://dune.com/)** - A platform for querying and visualizing DeFi data.
 - **[DeBank](https://debank.com/)** - An analytics tool providing insights into DeFi portfolios and protocols.
 - **[Token Terminal](https://tokenterminal.com/)** - Provides fundamental analysis of DeFi projects and protocols.
+- **[PolyMind](https://polyminds.netlify.app/)** - Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini), tracking whale bets, volume spikes, and 12 signal types.
 
 ## Security and Auditing
 
