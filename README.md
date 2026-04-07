@@ -89,6 +89,7 @@
 - **[Dune Analytics](https://dune.com/)** - A platform for querying and visualizing DeFi data.
 - **[DeBank](https://debank.com/)** - An analytics tool providing insights into DeFi portfolios and protocols.
 - **[Token Terminal](https://tokenterminal.com/)** - Provides fundamental analysis of DeFi projects and protocols.
+- **[Bitcoin Bottom Score](https://bitcoinbottom.app)** - Free Bitcoin market cycle bottom probability tracker aggregating 25 on-chain signals (MVRV Z-Score, Puell Multiple, Hash Ribbon, Fear & Greed, etc.) into a daily score.
 
 ## Security and Auditing
 
