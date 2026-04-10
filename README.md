@@ -96,6 +96,7 @@
 - **[OpenZeppelin Contracts](https://docs.openzeppelin.com/contracts/)** - A library of secure smart contracts used in DeFi.
 - **[Immunefi](https://immunefi.com/)** - A bug bounty platform for DeFi and crypto projects, incentivizing security researchers.
 - **[Quantstamp](https://quantstamp.com/)** - A smart contract auditing service for DeFi projects.
+- **[Hindenrank](https://hindenrank.com)** - A DeFi protocol risk rating platform grading 745+ protocols A-F across 8 cryptoeconomic risk dimensions, with vault risk ratings for Beefy, Hyperliquid, and Morpho.
 
 ## Educational Resources
 
