@@ -89,6 +89,7 @@
 - **[Dune Analytics](https://dune.com/)** - A platform for querying and visualizing DeFi data.
 - **[DeBank](https://debank.com/)** - An analytics tool providing insights into DeFi portfolios and protocols.
 - **[Token Terminal](https://tokenterminal.com/)** - Provides fundamental analysis of DeFi projects and protocols.
+- **[Hive Intelligence](https://hiveintelligence.xyz)** - Institutional-grade crypto market infrastructure for AI — live prices, DeFi activity, wallet positions, and token risk across every major chain through a managed MCP, REST API, or CLI.
 
 ## Security and Auditing
 
