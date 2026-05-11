@@ -89,6 +89,7 @@
 - **[Dune Analytics](https://dune.com/)** - A platform for querying and visualizing DeFi data.
 - **[DeBank](https://debank.com/)** - An analytics tool providing insights into DeFi portfolios and protocols.
 - **[Token Terminal](https://tokenterminal.com/)** - Provides fundamental analysis of DeFi projects and protocols.
+- **[Web3 Discover](https://web3-discover.vercel.app)** - A hand-vetted directory of currently-claimable airdrops and DeFi opportunities; deadline-sorted, every entry "last verified" stamped. No paid listings, no wallet-connect.
 
 ## Security and Auditing
 
