@@ -50,6 +50,7 @@
 - **[PancakeSwap](https://pancakeswap.finance/)** - A popular DEX on the Binance Smart Chain, known for its low fees.
 - **[Balancer](https://balancer.fi/)** - A DEX and automated portfolio manager for ERC-20 tokens.
 - **[1inch](https://1inch.io/)** - A DEX aggregator that finds the best rates across multiple DEXs.
+- **[Arbitrage Inception](https://arbitrage-inc.exchange)** - An open-source DEX aggregator, cross-chain bridge, and yield terminal on BNB Smart Chain.
 
 ## Lending and Borrowing
 
