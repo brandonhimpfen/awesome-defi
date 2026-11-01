@@ -92,6 +92,7 @@
 - **[Sharpe](https://www.sharpe.ai/)** - AI-driven crypto trading intelligence for DeFi market data, derivatives positioning, DEX flow, on-chain risk, and narrative rotation.
 - **[Token Terminal](https://tokenterminal.com/)** - Provides fundamental analysis of DeFi projects and protocols.
 - [Pharos](https://pharos.watch/) — Open-source stablecoin analytics dashboard covering peg stress, DEX liquidity, safety scores, blacklist events, mint/burn flows, and stablecoin failures.
+- [PerShare](https://pershare.cc) — Crypto-per-share calculator for crypto treasury companies (BNC, PURR): live BNB/HYPE per share, mNAV discount/premium, and APY analytics for BNCB and HYPE liquidity pools.
 
 ## Security and Auditing
 
