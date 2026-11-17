@@ -82,6 +82,7 @@
 - **[Argent Wallet](https://www.argent.xyz/)** - A mobile Ethereum wallet with integrated DeFi features.
 - **[Zerion](https://zerion.io/)** - A wallet and DeFi interface for managing assets across different protocols.
 - **[Gnosis Safe](https://gnosis-safe.io/)** - A multi-signature wallet designed for secure management of DeFi assets.
+- **[Fluid](https://fluidwallet.dpdns.org/)** - A free, open-source, non-custodial web wallet (PWA) for holding and swapping assets across Bitcoin, EVM chains, Solana, Sui and more, with no account or KYC.
 
 ## Analytics and Data Tools
 
