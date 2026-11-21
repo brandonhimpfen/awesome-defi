@@ -28,6 +28,7 @@
 
 ## General Resources
 
+- **[18btc](https://18btc.cc/)** - A curated crypto tools directory with hand-tested DeFi, market-data and wallet tools, plus free in-site utilities and live boards.
 - **[DeFi Pulse](https://defipulse.com/)** - A comprehensive dashboard tracking the total value locked (TVL) in DeFi protocols.
 - **[DeFi Llama](https://defillama.com/)** - An analytics platform tracking TVL across various DeFi platforms.
 - **[DeFi Safety](https://www.defisafety.com/)** - Provides safety ratings and assessments for DeFi projects.
